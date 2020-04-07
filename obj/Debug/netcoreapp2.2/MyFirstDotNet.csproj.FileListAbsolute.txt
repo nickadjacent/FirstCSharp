@@ -1,0 +1,11 @@
+/Users/cthulhu/Documents/Dojo/C#/LanguageFundamentals/LanguageEssentials/MyFirstDotNet/bin/Debug/netcoreapp2.2/MyFirstDotNet.deps.json
+/Users/cthulhu/Documents/Dojo/C#/LanguageFundamentals/LanguageEssentials/MyFirstDotNet/bin/Debug/netcoreapp2.2/MyFirstDotNet.runtimeconfig.json
+/Users/cthulhu/Documents/Dojo/C#/LanguageFundamentals/LanguageEssentials/MyFirstDotNet/bin/Debug/netcoreapp2.2/MyFirstDotNet.runtimeconfig.dev.json
+/Users/cthulhu/Documents/Dojo/C#/LanguageFundamentals/LanguageEssentials/MyFirstDotNet/bin/Debug/netcoreapp2.2/MyFirstDotNet.dll
+/Users/cthulhu/Documents/Dojo/C#/LanguageFundamentals/LanguageEssentials/MyFirstDotNet/bin/Debug/netcoreapp2.2/MyFirstDotNet.pdb
+/Users/cthulhu/Documents/Dojo/C#/LanguageFundamentals/LanguageEssentials/MyFirstDotNet/obj/Debug/netcoreapp2.2/MyFirstDotNet.csprojAssemblyReference.cache
+/Users/cthulhu/Documents/Dojo/C#/LanguageFundamentals/LanguageEssentials/MyFirstDotNet/obj/Debug/netcoreapp2.2/MyFirstDotNet.csproj.CoreCompileInputs.cache
+/Users/cthulhu/Documents/Dojo/C#/LanguageFundamentals/LanguageEssentials/MyFirstDotNet/obj/Debug/netcoreapp2.2/MyFirstDotNet.AssemblyInfoInputs.cache
+/Users/cthulhu/Documents/Dojo/C#/LanguageFundamentals/LanguageEssentials/MyFirstDotNet/obj/Debug/netcoreapp2.2/MyFirstDotNet.AssemblyInfo.cs
+/Users/cthulhu/Documents/Dojo/C#/LanguageFundamentals/LanguageEssentials/MyFirstDotNet/obj/Debug/netcoreapp2.2/MyFirstDotNet.dll
+/Users/cthulhu/Documents/Dojo/C#/LanguageFundamentals/LanguageEssentials/MyFirstDotNet/obj/Debug/netcoreapp2.2/MyFirstDotNet.pdb
